@@ -18,4 +18,7 @@ URL for reports :
 
 Swagger URL : http://localhost:9090/swagger-ui.html
 
-
+# technologies
+Springboot 2.1.4
+Swagger2
+JDK 1.8
